@@ -2,9 +2,6 @@ package Exercicios;
 
 import java.util.Scanner;
 
-//Joao Victor Marks F. Delgado RM: 84596
-//Willian Augusto Rocha dos Santos RM: 85023
-//Bruno Fogaça RM: 84743
 public class EXER4 {
 
 	public static void main(String[] args) {
@@ -51,10 +48,10 @@ public class EXER4 {
 
 }//fim
 
-//A soma dos quadrados dos primeiros dez números naturais é:  
+//A soma dos quadrados dos primeiros dez nÃºmeros naturais Ã©:  
 	 
 //1^2 + 2^2 + 3^2 + 4^2 + 5^2 + 6^2 + 7^2 + 8^2 + 9^2 + 10^2 = 385 
  
-//O  quadrado da soma dos primeiros 10 números naturais é: 
+//O  quadrado da soma dos primeiros 10 nÃºmeros naturais Ã©: 
  
 //(1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10)2 = 552 = 3025 
