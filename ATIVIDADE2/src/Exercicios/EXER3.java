@@ -2,9 +2,6 @@ package Exercicios;
 
 import java.util.Scanner;
 
-//Joao Victor Marks F. Delgado RM: 84596
-//Willian Augusto Rocha dos Santos RM: 85023
-//Bruno Fogaça RM: 84743
 public class EXER3 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -23,7 +20,7 @@ public class EXER3 {
 				num = num/10; 
 				cont++;
 			} 
-			System.out.print("O numero é composto por --> ");
+			System.out.print("O numero Ã© composto por --> ");
 			System.out.print(cont-1);
 			System.out.println(" Digitos!");
 				} else {
