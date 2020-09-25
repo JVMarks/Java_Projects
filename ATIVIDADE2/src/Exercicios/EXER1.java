@@ -2,9 +2,7 @@ package Exercicios;
 
 import java.util.Scanner;
 
-//Joao Victor Marks F. Delgado RM: 84596
-//Willian Augusto Rocha dos Santos RM: 85023
-//Bruno FogaÁa RM: 84743
+
 public class EXER1 {
 
 	public static void main(String[] args) {
@@ -25,7 +23,7 @@ public class EXER1 {
 	   		  }else if (conceito.equalsIgnoreCase("B")) {   	    	  
 	   	    	  System.out.println("<--- Bom ---> ");
 	      	      }else if (conceito.equalsIgnoreCase("M")) {    	    	  
-	   	    	  System.out.println("<--- MÈdio ---> ");    	    	  
+	   	    	  System.out.println("<--- M√©dio ---> ");    	    	  
 	   	      }else if (conceito.equalsIgnoreCase("R")) {
 	   	    	  System.out.println("<--- Reprovado ---> ");    	    	  
 	   	      }else if (conceito.equalsIgnoreCase("D")) {    	    	  
@@ -33,7 +31,7 @@ public class EXER1 {
 	   	      }else if (conceito.equalsIgnoreCase("T")) {    	    	  
 	   	    	  System.out.println("<--- Trancado ---> ");    	    	  
 	   	      } else {
-	   	    	  System.out.println("Este conceito n„o existe ou n„o È cadastrado :c");
+	   	    	  System.out.println("Este conceito n√£o existe ou n√£o √© cadastrado :c");
 	   	      }
 	    		    contador = contador + 1;  
 	    			}    	 
@@ -51,10 +49,10 @@ public class EXER1 {
 
 }//fim
 
-//conceito DescriÁ„o 
+//conceito Descri√ß√£o 
 //E Excelente 
 //B Bom 
-//M MÈdio 
+//M M√©dio 
 //R Reprovado 
 //D Desistente 
 //T Trancado 
