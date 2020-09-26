@@ -2,9 +2,7 @@ package Exercicios;
 
 import java.util.Scanner;
 
-//Joao Victor Marks F. Delgado RM: 84596
-//Willian Augusto Rocha dos Santos RM: 85023
-//Bruno Fogaça RM: 84743
+
 public class EXER5 {
 
 	public static void main(String[] args) {
@@ -23,9 +21,9 @@ public class EXER5 {
 				condicao = Math.sqrt(8*n + 1);
 				
 				if (condicao == Math.floor(condicao)) {
-					System.out.println("É triangular!");
+					System.out.println("Ã‰ triangular!");
 				}else {
-					System.out.println("NÃO é triangular!!");
+					System.out.println("NÃƒO Ã© triangular!!");
 				}
 			}
 					
